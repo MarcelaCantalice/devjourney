@@ -1,0 +1,38 @@
+﻿
+Thanks for using JUnit! Support its development at https://junit.org/sponsoring
+
+? Limpando dataset e treinando modelo...
+? Modelo gerou insights valiosos!
+? PROMOVIDO PARA J�nior!
+?? Desenvolvendo contrato na Blockchain...
+? Deploy realizado com sucesso!
+╷
+├─ JUnit Platform Suite ✔
+├─ JUnit Jupiter ✔
+│  └─ RegressaoBasicaTest ✔
+│     ├─ reg09_3_opcaoAmanha() ↷ System property [regressao.legacy] with value [true] matches regular expression [true] ==> NAO APLICAVEL: GirlfriendChallenge nao existe neste commit
+│     ├─ reg01_xpNaoPodeSerNegativo() ✔
+│     ├─ reg10_promocaoUmPontoAbaixoDeveSerRecusada() ✔
+│     ├─ reg09_2_opcaoNao() ↷ System property [regressao.legacy] with value [true] matches regular expression [true] ==> NAO APLICAVEL: GirlfriendChallenge nao existe neste commit
+│     ├─ reg09_1_opcaoSim() ↷ System property [regressao.legacy] with value [true] matches regular expression [true] ==> NAO APLICAVEL: GirlfriendChallenge nao existe neste commit
+│     ├─ reg04_recompensaDataScienceDificuldadeDois() ✔
+│     ├─ reg03_promocaoNoLimiteDeveFuncionar() ✔
+│     ├─ reg05_recompensaSmartContractDificuldadeDois() ✔
+│     ├─ reg07_boostExpiraAposDoisUsos() ↷ System property [regressao.legacy] with value [true] matches regular expression [true] ==> NAO APLICAVEL: boost temporario nao existe neste commit
+│     └─ reg02_promocaoSemXpSuficienteDeveSerRecusada() ✔
+└─ JUnit Vintage ✔
+
+Test run finished after 1531 ms
+[         4 containers found      ]
+[         0 containers skipped    ]
+[         4 containers started    ]
+[         0 containers aborted    ]
+[         4 containers successful ]
+[         0 containers failed     ]
+[        10 tests found           ]
+[         4 tests skipped         ]
+[         6 tests started         ]
+[         0 tests aborted         ]
+[         6 tests successful      ]
+[         0 tests failed          ]
+
