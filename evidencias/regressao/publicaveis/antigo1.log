@@ -1,0 +1,81 @@
+﻿
+Thanks for using JUnit! Support its development at https://junit.org/sponsoring
+
+Treinando modelo...
+Modelo gerou insights.
+PROMOVIDO PARA Junior
+Desenvolvendo contrato...
+Deploy realizado.
+BOOST ATIVADO: XP x2.0 pelos proximos 2 projetos
+BOOST EXPIRADO
+╷
+├─ JUnit Platform Suite ✔
+├─ JUnit Jupiter ✔
+│  └─ RegressaoBasicaTest ✔
+│     ├─ reg09_3_opcaoAmanha() ✘ XP aplicado deve corresponder ao anunciado ==> expected: <-30.0> but was: <0.0>
+│     ├─ reg01_xpNaoPodeSerNegativo() ✔
+│     ├─ reg10_promocaoUmPontoAbaixoDeveSerRecusada() ✔
+│     ├─ reg09_2_opcaoNao() ✘ XP aplicado deve corresponder ao anunciado ==> expected: <-60.0> but was: <-20.0>
+│     ├─ reg09_1_opcaoSim() ✘ XP aplicado deve corresponder ao anunciado ==> expected: <25.0> but was: <40.0>
+│     ├─ reg04_recompensaDataScienceDificuldadeDois() ✔
+│     ├─ reg03_promocaoNoLimiteDeveFuncionar() ✔
+│     ├─ reg05_recompensaSmartContractDificuldadeDois() ✔
+│     ├─ reg07_boostExpiraAposDoisUsos() ✔
+│     └─ reg02_promocaoSemXpSuficienteDeveSerRecusada() ✔
+└─ JUnit Vintage ✔
+
+Failures (3):
+  JUnit Jupiter:RegressaoBasicaTest:reg09_3_opcaoAmanha()
+    MethodSource [className = 'RegressaoBasicaTest', methodName = 'reg09_3_opcaoAmanha', methodParameterTypes = '']
+    => org.opentest4j.AssertionFailedError: XP aplicado deve corresponder ao anunciado ==> expected: <-30.0> but was: <0.0>
+       org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:151)
+       org.junit.jupiter.api.AssertionFailureBuilder.buildAndThrow(AssertionFailureBuilder.java:132)
+       org.junit.jupiter.api.AssertEquals.failNotEqual(AssertEquals.java:197)
+       org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:86)
+       org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:1024)
+       RegressaoBasicaTest.verificarRecompensaDoDesafio(RegressaoBasicaTest.java:162)
+       RegressaoBasicaTest.reg09_3_opcaoAmanha(RegressaoBasicaTest.java:137)
+       java.base/java.lang.reflect.Method.invoke(Method.java:580)
+       java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+       java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+  JUnit Jupiter:RegressaoBasicaTest:reg09_2_opcaoNao()
+    MethodSource [className = 'RegressaoBasicaTest', methodName = 'reg09_2_opcaoNao', methodParameterTypes = '']
+    => org.opentest4j.AssertionFailedError: XP aplicado deve corresponder ao anunciado ==> expected: <-60.0> but was: <-20.0>
+       org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:151)
+       org.junit.jupiter.api.AssertionFailureBuilder.buildAndThrow(AssertionFailureBuilder.java:132)
+       org.junit.jupiter.api.AssertEquals.failNotEqual(AssertEquals.java:197)
+       org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:86)
+       org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:1024)
+       RegressaoBasicaTest.verificarRecompensaDoDesafio(RegressaoBasicaTest.java:162)
+       RegressaoBasicaTest.reg09_2_opcaoNao(RegressaoBasicaTest.java:131)
+       java.base/java.lang.reflect.Method.invoke(Method.java:580)
+       java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+       java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+  JUnit Jupiter:RegressaoBasicaTest:reg09_1_opcaoSim()
+    MethodSource [className = 'RegressaoBasicaTest', methodName = 'reg09_1_opcaoSim', methodParameterTypes = '']
+    => org.opentest4j.AssertionFailedError: XP aplicado deve corresponder ao anunciado ==> expected: <25.0> but was: <40.0>
+       org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:151)
+       org.junit.jupiter.api.AssertionFailureBuilder.buildAndThrow(AssertionFailureBuilder.java:132)
+       org.junit.jupiter.api.AssertEquals.failNotEqual(AssertEquals.java:197)
+       org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:86)
+       org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:1024)
+       RegressaoBasicaTest.verificarRecompensaDoDesafio(RegressaoBasicaTest.java:162)
+       RegressaoBasicaTest.reg09_1_opcaoSim(RegressaoBasicaTest.java:125)
+       java.base/java.lang.reflect.Method.invoke(Method.java:580)
+       java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+       java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+
+Test run finished after 682 ms
+[         4 containers found      ]
+[         0 containers skipped    ]
+[         4 containers started    ]
+[         0 containers aborted    ]
+[         4 containers successful ]
+[         0 containers failed     ]
+[        10 tests found           ]
+[         0 tests skipped         ]
+[        10 tests started         ]
+[         0 tests aborted         ]
+[         7 tests successful      ]
+[         3 tests failed          ]
+
