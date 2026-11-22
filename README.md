@@ -341,3 +341,34 @@ java '-Duser.language=en' '-Duser.country=US' -cp $cp org.junit.runner.JUnitCore
 ```
 
 Na referência avaliada, o JUnit apresentou `OK (7 tests)`. Para executar os cenários de console após a compilação, use `java -cp $classes game.Main`. Para os testes históricos, consulte [Testes de regressão](regressao-junit/README.md).
+
+## Testes de integração de desafios e interface
+
+| Classe | Casos | O que os testes verificam |
+| --- | --- | --- |
+| `DesafiosIT` | TI06 a TI11 | Efeito do multiplicador no projeto, respostas aos desafios de RH e do chefe e saldo de XP após cada escolha no desafio de relacionamento. |
+| `InterfaceIT` | TI14 e TI15 | Navegação pela ajuda, início e saída da carreira e exibição da probabilidade de desafio. |
+
+Após a compilação descrita acima, execute os oito casos de desafios e interface na mesma sessão do PowerShell:
+
+```powershell
+java '-Duser.language=en' '-Duser.country=US' -cp $cp org.junit.runner.JUnitCore game.integracao.DesafiosIT game.integracao.InterfaceIT
+```
+
+Para executar os **15 testes de integração** e obter o resultado individual de cada caso:
+
+```powershell
+java '-Duser.language=en' '-Duser.country=US' -cp $cp game.integracao.ExecutorLocal
+```
+
+Na versão avaliada, 11 testes passaram e quatro falharam. Os casos TI09, TI10 e TI11 partiram de 50 XP. Para as escolhas “Sim”, “Não” e “Amanhã”, os saldos esperados eram 75, 0 e 20 XP. O jogo apresentou 90, 30 e 50 XP, respectivamente. No TI15, a ajuda exibiu `30%%` onde se esperava `30%`. O executor retorna código 1 quando há falhas. Consulte o [registro da execução](evidencias/integracao/junit-integracao.log).
+
+### Verificação pelo console
+
+Execute `java -cp $classes game.Main` e siga o [roteiro de desafios e interface](evidencias/integracao/console-desafios.md) para verificar a ajuda e o início da carreira (TM01), a entrada inválida no menu (TM06) e o saldo após o desafio de relacionamento (TM07). Como o desafio é sorteado, registre TM07 como “não observado” se ele não aparecer durante a partida.
+
+Para gravar uma sessão conduzida por script em Linux ou macOS, use Python 3 e Java no PATH. Na raiz do projeto, substitua o primeiro argumento pelo diretório das classes compiladas:
+
+```sh
+python3 integracao-junit/sessao_manual.py /caminho/das/classes transcricao.txt
+```

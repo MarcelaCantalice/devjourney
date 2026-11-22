@@ -1,0 +1,1232 @@
+
+>>> INICIO game.integracao.PromocaoIT.TI01_promocaoRecusadaCom1999Xp
+--- JORNADA DO DEV ---
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 1999.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: 
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 1999.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Saindo do jogo.
+
+[stderr] PROMOCAO FALHOU: Faltam 1.0 XP para Junior
+
+
+>>> INICIO game.integracao.PromocaoIT.TI02_promocaoAceitaComExatos2000Xp
+--- JORNADA DO DEV ---
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 2000.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: PROMOVIDO PARA Junior
+
+-------------------------------------
+DEV: Ana | CARGO: Junior | XP: 0.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Saindo do jogo.
+
+
+>>> INICIO game.integracao.PromocaoIT.TI03_quatroBonusSudoHabilitamPromocao
+--- JORNADA DO DEV ---
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 50.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: ROOT ACESSADO
+Bonus de 500 XP.
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 550.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: ROOT ACESSADO
+Bonus de 500 XP.
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 1050.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: ROOT ACESSADO
+Bonus de 500 XP.
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 1550.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: ROOT ACESSADO
+Bonus de 500 XP.
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 2050.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: PROMOVIDO PARA Junior
+
+-------------------------------------
+DEV: Ana | CARGO: Junior | XP: 0.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Saindo do jogo.
+
+
+>>> INICIO game.integracao.PromocaoIT.TI12_promocaoDeSeniorParaCeoEncerraOJogo
+--- JORNADA DO DEV ---
+
+-------------------------------------
+DEV: Ana | CARGO: Senior | XP: 15000.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: PROMOVIDO PARA CEO
+
+-------------------------------------
+DEV: Ana | CARGO: CEO | XP: 0.0
+Skills: []
+
+--- GAME OVER: VOCE E O CEO! ---
+
+
+>>> INICIO game.integracao.ProjetoEstudoIT.TI04_primeiroProjetoConcluidoEProximoAberto
+--- JORNADA DO DEV ---
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 50.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Iniciando projeto: Site Institucional Basico
+Progresso: 0%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 50.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Site Institucional Basico...
+Progresso: 10%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 55.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Site Institucional Basico...
+Progresso: 20%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 60.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Site Institucional Basico...
+Progresso: 30%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 65.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Site Institucional Basico...
+Progresso: 40%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 70.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Site Institucional Basico...
+Progresso: 50%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 75.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Site Institucional Basico...
+Progresso: 60%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 80.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Site Institucional Basico...
+Progresso: 70%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 85.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Site Institucional Basico...
+Progresso: 80%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 90.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Site Institucional Basico...
+Progresso: 90%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 95.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Site Institucional Basico...
+Desenvolvendo contrato...
+Deploy realizado.
+Base XP: 40. XP Final (c/ Skill Boost 1.00x): 40
+PROJETO CONCLUIDO
+Ganhou 40 XP.
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 135.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Iniciando projeto: Bot de Respostas Automaticas
+Progresso: 0%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 135.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Saindo do jogo.
+
+
+>>> INICIO game.integracao.ProjetoEstudoIT.TI05_skillJavaAvancadoAumentaRecompensaDoProjeto
+--- JORNADA DO DEV ---
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 50.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: SKILLS DISPONIVEIS PARA INICIAR ESTUDO:
+1. Java Avancado (+5.0% XP permanente)
+2. Docker (+3.0% XP permanente)
+3. SQL Tuning (+1.0% XP permanente)
+4. Clean Code (+2.0% XP permanente)
+5. CI/CD (+4.0% XP permanente)
+6. AWS (+6.0% XP permanente)
+7. Kubernetes (+7.0% XP permanente)
+Escolha o numero da skill para iniciar o estudo: 📝 Estudo de **Java Avancado** iniciado! Complete-o em proximos turnos.
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 55.0 | ESTUDO ATIVO: Java Avancado (0%)
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: 
+📚 Continuou estudando: Java Avancado...
+📈 Progresso subiu para 25% (75% restante).
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 65.0 | ESTUDO ATIVO: Java Avancado (25%)
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: 
+📚 Continuou estudando: Java Avancado...
+📈 Progresso subiu para 50% (50% restante).
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 75.0 | ESTUDO ATIVO: Java Avancado (50%)
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: 
+📚 Continuou estudando: Java Avancado...
+📈 Progresso subiu para 75% (25% restante).
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 85.0 | ESTUDO ATIVO: Java Avancado (75%)
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: 
+📚 Continuou estudando: Java Avancado...
+BOOST PERMANENTE: XP base aumentou 5.0%
+🎉 SKILL CONCLUÍDA: Java Avancado!
+Ganhou +50 XP e +5.0% XP permanente.
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 135.0 | SKILL BOOST: x1.05
+Skills: [Java Avancado]
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Iniciando projeto: Site Institucional Basico
+Progresso: 0%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 135.0 | SKILL BOOST: x1.05
+Skills: [Java Avancado]
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Site Institucional Basico...
+Progresso: 10%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 140.0 | SKILL BOOST: x1.05
+Skills: [Java Avancado]
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Site Institucional Basico...
+Progresso: 20%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 145.0 | SKILL BOOST: x1.05
+Skills: [Java Avancado]
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Site Institucional Basico...
+Progresso: 30%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 150.0 | SKILL BOOST: x1.05
+Skills: [Java Avancado]
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Site Institucional Basico...
+Progresso: 40%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 155.0 | SKILL BOOST: x1.05
+Skills: [Java Avancado]
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Site Institucional Basico...
+Progresso: 50%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 160.0 | SKILL BOOST: x1.05
+Skills: [Java Avancado]
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Site Institucional Basico...
+Progresso: 60%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 165.0 | SKILL BOOST: x1.05
+Skills: [Java Avancado]
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Site Institucional Basico...
+Progresso: 70%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 170.0 | SKILL BOOST: x1.05
+Skills: [Java Avancado]
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Site Institucional Basico...
+Progresso: 80%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 175.0 | SKILL BOOST: x1.05
+Skills: [Java Avancado]
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Site Institucional Basico...
+Progresso: 90%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 180.0 | SKILL BOOST: x1.05
+Skills: [Java Avancado]
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Site Institucional Basico...
+Desenvolvendo contrato...
+Deploy realizado.
+Base XP: 40. XP Final (c/ Skill Boost 1.05x): 42
+PROJETO CONCLUIDO
+Ganhou 42 XP.
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 222.0 | SKILL BOOST: x1.05
+Skills: [Java Avancado]
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Saindo do jogo.
+
+
+>>> INICIO game.integracao.ProjetoEstudoIT.TI13_listaDeProjetosERepostaAposOsTresIniciais
+--- JORNADA DO DEV ---
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 50.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Iniciando projeto: Site Institucional Basico
+Progresso: 0%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 50.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Site Institucional Basico...
+Progresso: 10%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 55.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Site Institucional Basico...
+Progresso: 20%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 60.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Site Institucional Basico...
+Progresso: 30%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 65.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Site Institucional Basico...
+Progresso: 40%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 70.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Site Institucional Basico...
+Progresso: 50%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 75.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Site Institucional Basico...
+Progresso: 60%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 80.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Site Institucional Basico...
+Progresso: 70%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 85.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Site Institucional Basico...
+Progresso: 80%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 90.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Site Institucional Basico...
+Progresso: 90%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 95.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Site Institucional Basico...
+Desenvolvendo contrato...
+Deploy realizado.
+Base XP: 40. XP Final (c/ Skill Boost 1.00x): 40
+PROJETO CONCLUIDO
+Ganhou 40 XP.
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 135.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Iniciando projeto: Bot de Respostas Automaticas
+Progresso: 0%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 135.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Bot de Respostas Automaticas...
+Progresso: 10%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 140.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Bot de Respostas Automaticas...
+Progresso: 20%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 145.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Bot de Respostas Automaticas...
+Progresso: 30%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 150.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Bot de Respostas Automaticas...
+Progresso: 40%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 155.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Bot de Respostas Automaticas...
+Progresso: 50%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 160.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Bot de Respostas Automaticas...
+Progresso: 60%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 165.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Bot de Respostas Automaticas...
+Progresso: 70%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 170.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Bot de Respostas Automaticas...
+Progresso: 80%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 175.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Bot de Respostas Automaticas...
+Progresso: 90%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 180.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Bot de Respostas Automaticas...
+Treinando Rede Neural...
+Sucesso no treino.
+Base XP: 25. XP Final (c/ Skill Boost 1.00x): 25
+PROJETO CONCLUIDO
+Ganhou 25 XP.
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 205.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Iniciando projeto: Relatorio Mensal
+Progresso: 0%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 205.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Relatorio Mensal...
+Progresso: 10%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 210.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Relatorio Mensal...
+Progresso: 20%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 215.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Relatorio Mensal...
+Progresso: 30%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 220.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Relatorio Mensal...
+Progresso: 40%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 225.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Relatorio Mensal...
+Progresso: 50%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 230.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Relatorio Mensal...
+Progresso: 60%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 235.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Relatorio Mensal...
+Progresso: 70%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 240.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Relatorio Mensal...
+Progresso: 80%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 245.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Relatorio Mensal...
+Progresso: 90%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 250.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Relatorio Mensal...
+Treinando modelo...
+Modelo gerou insights.
+Base XP: 25. XP Final (c/ Skill Boost 1.00x): 25
+PROJETO CONCLUIDO
+Ganhou 25 XP.
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 275.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: 
+Novos projetos chegaram
+Iniciando projeto: Refatoracao Legacy
+Progresso: 0%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 275.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Saindo do jogo.
+
+
+>>> INICIO game.integracao.DesafiosIT.TI06_terminarRelacionamentoAtivaBoost4xNoProjeto
+--- JORNADA DO DEV ---
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 50.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Iniciando projeto: Site Institucional Basico
+Progresso: 0%
+
+DESAFIO SURPRESA
+A sua namorada/o mandou uma mensagem
+MENSAGEM: Você está livre para sair hoje à noite?
+1. Sim
+2. Não
+3. Amanhã
+4. Terminar
+Escolha: Você partiu o coração da sua namorada! (-200 XP)
+BOOST ATIVADO: XP x4.0 pelos proximos 5 projetos
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 0.0 | BOOST TEMP: x4.0 (5 restantes)
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Site Institucional Basico...
+Progresso: 10%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 5.0 | BOOST TEMP: x4.0 (5 restantes)
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Site Institucional Basico...
+Progresso: 20%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 10.0 | BOOST TEMP: x4.0 (5 restantes)
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Site Institucional Basico...
+Progresso: 30%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 15.0 | BOOST TEMP: x4.0 (5 restantes)
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Site Institucional Basico...
+Progresso: 40%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 20.0 | BOOST TEMP: x4.0 (5 restantes)
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Site Institucional Basico...
+Progresso: 50%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 25.0 | BOOST TEMP: x4.0 (5 restantes)
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Site Institucional Basico...
+Progresso: 60%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 30.0 | BOOST TEMP: x4.0 (5 restantes)
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Site Institucional Basico...
+Progresso: 70%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 35.0 | BOOST TEMP: x4.0 (5 restantes)
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Site Institucional Basico...
+Progresso: 80%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 40.0 | BOOST TEMP: x4.0 (5 restantes)
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Site Institucional Basico...
+Progresso: 90%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 45.0 | BOOST TEMP: x4.0 (5 restantes)
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Trabalhando em Site Institucional Basico...
+Desenvolvendo contrato...
+Deploy realizado.
+BOOST TEMPORARIO ATIVO! Base XP: 40 -> Final XP: 160
+PROJETO CONCLUIDO
+Ganhou 160 XP.
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 205.0 | BOOST TEMP: x4.0 (4 restantes)
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Saindo do jogo.
+
+
+>>> INICIO game.integracao.DesafiosIT.TI07_rhSenhaCorretaDepoisIncorreta
+Digite sua senha: (dica: 1234)
+Rapido +25XP
+
+Digite sua senha: (dica: 1234)
+Lento -10XP
+
+
+>>> INICIO game.integracao.DesafiosIT.TI08_chefeRespostaNaoNumerica
+O chefe pergunta: 'Para provar que é você, qual é o resultado de...'
+👉 ** 45 + 18 ** ? (Tempo é dinheiro!)$
+Sua resposta: Resposta inválida (não é um número)! O chefe ficou bravo. -30 XP
+
+
+>>> INICIO game.integracao.DesafiosIT.TI09_namoradaSim_saldoDeveRefletirMais25
+MENSAGEM: Você está livre para sair hoje à noite?
+1. Sim
+2. Não
+3. Amanhã
+4. Terminar
+Escolha: Resposta: Sim (+25 XP)
+
+
+>>> INICIO game.integracao.DesafiosIT.TI10_namoradaNao_saldoDeveRefletirMenos60
+MENSAGEM: Você está livre para sair hoje à noite?
+1. Sim
+2. Não
+3. Amanhã
+4. Terminar
+Escolha: A sua namorada não gostou da resposta! (-60 XP)
+
+
+>>> INICIO game.integracao.DesafiosIT.TI11_namoradaAmanha_saldoDeveRefletirMenos30
+MENSAGEM: Você está livre para sair hoje à noite?
+1. Sim
+2. Não
+3. Amanhã
+4. Terminar
+Escolha: A sua namorada não gosta de esperar! (-30 XP)
+
+
+>>> INICIO game.integracao.InterfaceIT.TI14_ajudaInicioDeCarreiraESaida
+
+=====================================
+          JORNADA DO DEV             
+=====================================
+1. Iniciar Jogo
+2. Explicacao do Jogo
+3. Sair
+Escolha uma opcao: 
+-------------------------------------
+         COMO JOGAR: JORNADA DO DEV  
+-------------------------------------
+- **Objetivo**: Alcancar o cargo de CEO.
+- **Turnos**: A cada turno, escolha uma acao (Trabalhar/Estudar/Promover).
+- **XP e Promocao**:
+  - Voce comeca como Estagiario (Intern) com 50 XP.
+  - Para ser promovido a Junior, voce precisa de 2000 XP.
+  - Ao ser promovido, sua XP e zerada.
+- **Projetos**: Exigem varios turnos para serem concluidos.
+- **Skills**: Aprender skills concede XP permanente (multiplicador).
+- **Desafios**: Ha 30%% de chance de um Desafio Surpresa ocorrer a cada turno.
+- **Boost High Risk**: Se voce terminar o relacionamento (desafio), ganhara um boost temporario de 4.0x XP por 5 projetos!
+-------------------------------------
+
+=====================================
+          JORNADA DO DEV             
+=====================================
+1. Iniciar Jogo
+2. Explicacao do Jogo
+3. Sair
+Escolha uma opcao: 
+Nome do Dev? --- JORNADA DO DEV ---
+
+-------------------------------------
+DEV: Joao | CARGO: Estagiario | XP: 50.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Saindo do jogo.
+
+
+>>> INICIO game.integracao.InterfaceIT.TI15_ajudaExibeChanceDeDesafioCorretamente
+
+=====================================
+          JORNADA DO DEV             
+=====================================
+1. Iniciar Jogo
+2. Explicacao do Jogo
+3. Sair
+Escolha uma opcao: 
+-------------------------------------
+         COMO JOGAR: JORNADA DO DEV  
+-------------------------------------
+- **Objetivo**: Alcancar o cargo de CEO.
+- **Turnos**: A cada turno, escolha uma acao (Trabalhar/Estudar/Promover).
+- **XP e Promocao**:
+  - Voce comeca como Estagiario (Intern) com 50 XP.
+  - Para ser promovido a Junior, voce precisa de 2000 XP.
+  - Ao ser promovido, sua XP e zerada.
+- **Projetos**: Exigem varios turnos para serem concluidos.
+- **Skills**: Aprender skills concede XP permanente (multiplicador).
+- **Desafios**: Ha 30%% de chance de um Desafio Surpresa ocorrer a cada turno.
+- **Boost High Risk**: Se voce terminar o relacionamento (desafio), ganhara um boost temporario de 4.0x XP por 5 projetos!
+-------------------------------------
+
+=====================================
+          JORNADA DO DEV             
+=====================================
+1. Iniciar Jogo
+2. Explicacao do Jogo
+3. Sair
+Escolha uma opcao: Ate a proxima! O Dev precisa descansar.
+
+--- JORNADA DO DEV ---
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 50.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Iniciando projeto: Site Institucional Basico
+Progresso: 0%
+
+DESAFIO SURPRESA
+O RH 
+Digite sua senha: (dica: 1234)
+Rapido +25XP
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 75.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Saindo do jogo.
+
+--- JORNADA DO DEV ---
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 50.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Iniciando projeto: Site Institucional Basico
+Progresso: 0%
+
+-------------------------------------
+DEV: Ana | CARGO: Estagiario | XP: 50.0
+Skills: []
+-------------------------------------
+1. Trabalhar em Projeto
+2. Estudar (Ganhar Skill)
+3. Tentar Promocao
+4. Sair
+Escolha: Saindo do jogo.
+
+
+================ RESUMO POR CASO ================
+PASSOU  TI01_promocaoRecusadaCom1999Xp
+PASSOU  TI02_promocaoAceitaComExatos2000Xp
+PASSOU  TI03_quatroBonusSudoHabilitamPromocao
+PASSOU  TI12_promocaoDeSeniorParaCeoEncerraOJogo
+PASSOU  TI04_primeiroProjetoConcluidoEProximoAberto
+PASSOU  TI05_skillJavaAvancadoAumentaRecompensaDoProjeto
+PASSOU  TI13_listaDeProjetosERepostaAposOsTresIniciais
+PASSOU  TI06_terminarRelacionamentoAtivaBoost4xNoProjeto
+PASSOU  TI07_rhSenhaCorretaDepoisIncorreta
+PASSOU  TI08_chefeRespostaNaoNumerica
+FALHOU  TI09_namoradaSim_saldoDeveRefletirMais25                     50 + 25 anunciado expected:<75.0> but was:<90.0>
+FALHOU  TI10_namoradaNao_saldoDeveRefletirMenos60                    max(0, 50 - 60) expected:<0.0> but was:<30.0>
+FALHOU  TI11_namoradaAmanha_saldoDeveRefletirMenos30                 50 - 30 anunciado expected:<20.0> but was:<50.0>
+PASSOU  TI14_ajudaInicioDeCarreiraESaida
+FALHOU  TI15_ajudaExibeChanceDeDesafioCorretamente                   Ajuda deve informar 30% de chance
+Executados: 15 | Aprovados: 11 | Falhos: 4 | Ignorados: 0 | Tempo: 56 ms
