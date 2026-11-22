@@ -312,3 +312,32 @@ Alguns testes possuem falhas conhecidas e documentadas. Portanto, a ocorrência 
 * **Easter Egg:** Digitar **`sudo`** no menu de opções concede um grande bônus imediato de XP.
 
 ---
+
+
+## Testes de integração — promoção, projetos e estudo
+
+Os testes ficam em `test/game/integracao/`. Os casos TI01–TI05, TI12 e TI13 verificam promoção, bônus de estudo e progressão de projetos. O roteiro de console para TM02–TM05 está em `evidencias/integracao/console-progressao.md`.
+
+### Compilar e executar no PowerShell
+
+Na raiz da branch, use o JDK e um JUnit Platform Console Standalone com suporte ao JUnit 4. O relatório da equipe usa qa/lib/junit-platform-console-standalone-1.11.4.jar; o binário não está versionado na revisão consultada. Ajuste $jar para a instalação local se necessário.
+
+```powershell
+$jar = 'qa/lib/junit-platform-console-standalone-1.11.4.jar'
+if (-not (Test-Path -LiteralPath $jar)) { throw "Informe o caminho do JAR em $jar" }
+$prod = (Get-ChildItem -File -Path *.java,challenges/*.java,exceptions/*.java,projects/*.java,service/*.java,skills/*.java).FullName
+$testes = (Get-ChildItem test/game/integracao -File -Filter *.java).FullName
+$classes = Join-Path $env:TEMP ('devjourney-integracao-' + [guid]::NewGuid())
+New-Item -ItemType Directory $classes | Out-Null
+javac -encoding UTF-8 -cp $jar -d $classes $prod $testes
+if ($LASTEXITCODE -ne 0) { throw 'Falha na compilação' }
+$cp = "$classes;$jar"
+```
+
+Executar os sete testes de promoção, projetos e estudo:
+
+```powershell
+java '-Duser.language=en' '-Duser.country=US' -cp $cp org.junit.runner.JUnitCore game.integracao.PromocaoIT game.integracao.ProjetoEstudoIT
+```
+
+Na referência avaliada, o JUnit apresentou `OK (7 tests)`. Para executar os cenários de console após a compilação, use `java -cp $classes game.Main`. Para os testes históricos, consulte [Testes de regressão](regressao-junit/README.md).
